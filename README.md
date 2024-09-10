@@ -3,11 +3,11 @@
 ## Case Study 5: Real-Time Collabrative Whiteboard
 
 ## Structure
-`src/` - Contains all source code related to the whiteboard project.
-`Whiteboard/` - A subfolder that contains the whiteboard implementation.
-`Whiteboard.js` - The main React component for the whiteboard.
-`Whiteboard.css` - Styles specific to the whiteboard component.
-`server/` - While the whiteboard project doesn't currently interact with the backend, the server.js file is present for potential future integration with server-side features.
+- `src/` - Contains all source code related to the whiteboard project.
+- `Whiteboard/` - A subfolder that contains the whiteboard implementation.
+- `Whiteboard.js` - The main React component for the whiteboard.
+- `Whiteboard.css` - Styles specific to the whiteboard component.
+- `server/` - While the whiteboard project doesn't currently interact with the backend, the server.js file is present for potential future integration with server-side features.
 
 ## Running the Project
 To run the Whiteboard project locally:
